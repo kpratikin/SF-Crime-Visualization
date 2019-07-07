@@ -7,4 +7,6 @@ Analyse San Francisco crime data to increase public safety:
 
 <b>Group Members: Apporva Srinivas, Harsha Wardhan Reddy Durvv, Ritumbhara Sagar, Dan To, Pratik Khandelwal
   
-<b>Analysis is done on Tableau Desktop. Data is hughe so I can't able to upload the .TWBX file. Instead I have uploaded screen shot of each dashboard (from a story). You can view pdf from here <a href='https://github.com/kpratikin/SF-Crime-Visualization/blob/master/SF_CrimeDataAnalysis.pdf'>
+<b>Analysis is done on Tableau Desktop. Data is hughe so I can't able to upload the .TWBX file. Instead I have uploaded screen shot of each dashboard (from a story). You can view pdf from here 
+  
+  <iframe src="https://github.com/kpratikin/SF-Crime-Visualization/blob/master/SF_CrimeDataAnalysis.pdf"></iframe>Link
